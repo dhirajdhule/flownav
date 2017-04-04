@@ -4,7 +4,7 @@ This project implements an interpretation of the algorithm developed by Mori and
 
 ## Assumptions for Obstacle Avoidance
 
-+ The drone moves along the Z-axis at a constant velocity with yaw/pitch velocities being negligible.
++ The drone moves along the Z-axis at a constant velocity with yaw/pitch velocities being negligible. t
 
 + Obstacles are small relative to image area i.e., fit well within the imaged scene.
 
